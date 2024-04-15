@@ -1,0 +1,34 @@
+
+## Version 1 - Initial Production
+
+----
+
+### Public Tweets Page Functionalities
+
+- Display a List of tweets (only approved users tweets will be listed).
+- Filter through the tweets based on timestamp and users.
+
+### Admin Portal Functionalities
+
+1. Admin can log in
+2. Admin can create new
+3. Admin can see a list of users
+4. Admin can see the tweets of a particular user
+5. Admin can add a new tweet on behalf of a user
+6. Admin can approve a user
+7. Admin can disapprove a user
+
+*** Students working on Brix *** 
+
+- [Shrey Patel](https://github.com/shreynpatel23) 
+- [Deep Patel](https://github.com/Deep291998)  
+- [Kaverappa Karnanda Uthappa](https://github.com/KaverappaKU)
+- [Suyash Kulkarni](https://github.com/Suyash0028)  
+
+[&#10132; Back to About](/brix-about/)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>
